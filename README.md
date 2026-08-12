@@ -13,6 +13,8 @@ Sistema de Gestión de Pedidos — Validación, Gestión, Herramientas y Estánd
 .
 ├── main.tex          # Archivo principal LaTeX (carátula + P1-P10)
 ├── main.pdf           # PDF compilado (versión final)
+├── captura_evaluacion.png
+├── captura_resumen.png
 └── README.md          # Este archivo
 ```
 
