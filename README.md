@@ -44,8 +44,8 @@ Esto genera `main.pdf` en el mismo directorio.
 ### Verificar reproducibilidad localmente
 
 ```bash
-git clone https://github.com/usuario/repositorio.git
-cd repositorio
+git clone https://github.com/kcrespoe/Crespo-ISR401-Prueba-U4.git
+cd Crespo-ISR401-Prueba-U4
 pdflatex -interaction=nonstopmode main.tex
 pdflatex -interaction=nonstopmode main.tex
 ```
